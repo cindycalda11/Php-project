@@ -16,7 +16,7 @@
     
     <div class="mb-3">
         <label for="Bdate" class="form-label">Date of Birth</label>
-        <input type="date" class="form-control" id="Date">
+        <input type="text" id="datepicker">
     </div>
 
     <div class="mb-3">
